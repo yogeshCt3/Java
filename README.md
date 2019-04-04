@@ -10,3 +10,9 @@
      getEvaluationMarks() in which ask the user to enter the total number of questions and toal incorrect 
      answers . Now return the percentage of marks. Create three student and call getEvaluationMarks for those students 
      having highest marks.
+### 31
+     Write a program to define an interface Person containing abstract method VoterId getVoterID().
+     Create a class Employee which inherits Person and contains an inner class VoterId with attributes
+     id and name. Implement the getVoterId method such that it reads the name and automatically assigns
+     a unique id to each Employee Object and return the VoterId object. Create a Main class and create 
+     two Employee objects and display their Voter Ids.
