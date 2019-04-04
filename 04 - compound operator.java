@@ -6,6 +6,6 @@ class FirstCode{
 //		int l = (3.5 / 2);	error
 		byte c = 10, d =20;
 //		byte ln = c + d; 	error
-		System.out.println();
+		System.out.println(k);
 	}
 }
