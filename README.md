@@ -2,6 +2,9 @@
 **List of few of my java implementations**  
 
  ## MIT : [LICENSE](https://github.com/yogeshCt3/Java/blob/master/LICENSE)
+### [01](https://github.com/yogeshCt3/Java/blob/master/01%20-%20FirstProgram.java)
+     WAP in java to create a class named FirstProgram which prints "Hello world!"
+
 ### [29](https://github.com/yogeshCt3/Java/blob/master/29%20-%20Delete%20all%20file%20extentions.java) 
      WAP in Java to take input from the user the file/folder name and the name of extention,
      then delete all the occurences of the given file extention from the given folder including
