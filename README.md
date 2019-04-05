@@ -1,10 +1,26 @@
-# Java
+
+![alt text](http://gif.informatiquegifs.com/gifs/java/1.gif)   
 **List of few of my java implementations**  
+
+                 
 
  ## MIT : [LICENSE](https://github.com/yogeshCt3/Java/blob/master/LICENSE)
 ### [01](https://github.com/yogeshCt3/Java/blob/master/01%20-%20FirstProgram.java)
      WAP in java to create a class named FirstProgram which prints "Hello world!"
-
+     
+### [02](https://github.com/yogeshCt3/Java/blob/master/02%20-%20Employe.java)
+     WAP in Java to create a class Employe with attributes empid, salary and name of private 
+     type each. Provide a getter and setter method for each, and call those functions from the 
+     class names EmpDemo
+     
+### [03](https://github.com/yogeshCt3/Java/blob/master/03%20-%20get%20input%20from%20user.java)
+     WAP in Java to demonstrate the i/O manipulation using object of scanner class.
+     
+### [04](https://github.com/yogeshCt3/Java/blob/master/04%20-%20compound%20operator.java)
+     WAP in Java to demonstrate the use of compound operators.
+### [05](https://github.com/yogeshCt3/Java/blob/master/05%20-%20Command%20line%20argument.java)     
+     WAP in Java to take two integers as the command line argument and display their sum.
+    
 ### [29](https://github.com/yogeshCt3/Java/blob/master/29%20-%20Delete%20all%20file%20extentions.java) 
      WAP in Java to take input from the user the file/folder name and the name of extention,
      then delete all the occurences of the given file extention from the given folder including
@@ -21,3 +37,4 @@
      id and name. Implement the getVoterId method such that it reads the name and automatically assigns
      a unique id to each Employee Object and return the VoterId object. Create a Main class and create 
      two Employee objects and display their Voter Ids.
+ 
