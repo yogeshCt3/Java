@@ -18,6 +18,8 @@
      
 ### [04](https://github.com/yogeshCt3/Java/blob/master/04%20-%20compound%20operator.java)
      WAP in Java to demonstrate the use of compound operators.
+### [05](https://github.com/yogeshCt3/Java/blob/master/05%20-%20Command%20line%20argument.java)     
+     WAP in Java to take two integers as the command line argument and display their sum.
     
 ### [29](https://github.com/yogeshCt3/Java/blob/master/29%20-%20Delete%20all%20file%20extentions.java) 
      WAP in Java to take input from the user the file/folder name and the name of extention,
