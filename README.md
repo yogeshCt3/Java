@@ -12,9 +12,12 @@
      WAP in Java to create a class Employe with attributes empid, salary and name of private 
      type each. Provide a getter and setter method for each, and call those functions from the 
      class names EmpDemo
+     
 ### [03](https://github.com/yogeshCt3/Java/blob/master/03%20-%20get%20input%20from%20user.java)
      WAP in Java to demonstrate the i/O manipulation using object of scanner class.
      
+### [04](https://github.com/yogeshCt3/Java/blob/master/04%20-%20compound%20operator.java)
+     WAP in Java to demonstrate the use of compound operators.
     
 ### [29](https://github.com/yogeshCt3/Java/blob/master/29%20-%20Delete%20all%20file%20extentions.java) 
      WAP in Java to take input from the user the file/folder name and the name of extention,
