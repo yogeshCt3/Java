@@ -17,6 +17,7 @@ Index|Task|View Code|
 31|WAP in Java to define an interface Person containing abstract method VoterId getVoterID(). Create a class Employee which inherits Person and contains an inner class VoterId with attributes id and name. Implement the getVoterId method such that it reads the name and automatically assigns a unique id to each Employee Object and return the VoterId object. Create a Main class and create  two Employee objects and display their Voter Ids.|[Code](https://github.com/yogeshCt3/Java/blob/master/31%20-%20VoterID.java)
 32|WAP in Java to take two integer as command line argument and display their sum, difference and division values, also implement a scenario to prevent all possible exceptions.|[Code](https://github.com/yogeshCt3/Java/blob/master/32%20-%20Exception%201.java)
 33|WAP in Java to create a class name Vehilcle with attributes price, mileage and fuel and a parameterized constructor to initialize all values and two methods getFuel() and addFuel(int var), create a subclass with attributes and car_name and a method to display car name, call all the methods from a class named Demo|[Code](https://github.com/yogeshCt3/Java/blob/master/33%20-%20Vehicle.java)
+34|WAP in Java to create a class named CopyCat which implements a method that copies the content of one file to another file|[Code](https://github.com/yogeshCt3/Java/blob/master/34%20-%20CopyCat.java)
 
 
  
