@@ -20,12 +20,9 @@ Index|Task|View Code|
 32|WAP in Java to take two integer as command line argument and display their sum, difference and division values, also implement a scenario to prevent all possible exceptions.|[Code](https://github.com/yogeshCt3/Java/blob/master/32%20-%20Exception%201.java)
 33|WAP in Java to create a class name Vehilcle with attributes price, mileage and fuel and a parameterized constructor to initialize all values and two methods getFuel() and addFuel(int var), create a subclass with attributes and car_name and a method to display car name, call all the methods from a class named Demo|[Code](https://github.com/yogeshCt3/Java/blob/master/33%20-%20Vehicle.java)
 34|WAP in Java to create a class named CopyCat which implements a method that copies the content of one file to another file|[Code](https://github.com/yogeshCt3/Java/blob/master/34%20-%20CopyCat.java)
-35|WAP in Java to show the propogation of exception|[Code]()
-36|WAP in java to show the concept of 'try' with resource allocation|[Code]()
-37|WAP in Java to create a class named User which throws a user defined exception called InvalidStringException if the length of string is < 5, also prompt the user to take the inputs till the user enters the correct string. print "String length is less than 5" if the user enters the string with length les than 5.|[Code]()
-38|WAP in Java to create a generic function which takes the generic type array and returns the minimum value amongst the array to the caller function.|[Code]()
-39|WAP in Java to create a class ADemo which implements a method showAverage(int [] Arr) and perform the assertion the array is null or the size of array is zero.|[Code]()
-40|WAP in Java to create a class PI which defines a method called calculateInterest(int amt, double roi, int years) to compute the compound interest, perform assertion in the required scenario.|[Code]()
-
-
- 
+35|WAP in Java to show the propogation of exception|[Code](https://github.com/yogeshCt3/Java/blob/master/35%20-%20ExceptionPropogation.java)
+36|WAP in java to show the concept of 'try' with resource allocation|[Code](https://github.com/yogeshCt3/Java/blob/master/36%20-%20tryWithResource.java)
+37|WAP in Java to create a class named User which throws a user defined exception called InvalidStringException if the length of string is < 5, also prompt the user to take the inputs till the user enters the correct string. print "String length is less than 5" if the user enters the string with length les than 5.|[Code](https://github.com/yogeshCt3/Java/blob/master/37%20-%20InvalidStringException.java)
+38|WAP in Java to create a generic function which takes the generic type array and returns the minimum value amongst the array to the caller function.|[Code](https://github.com/yogeshCt3/Java/blob/master/38%20-%20genericMin.java)
+39|WAP in Java to create a class ADemo which implements a method showAverage(int [] Arr) and perform the assertion the array is null or the size of array is zero.|[Code](https://github.com/yogeshCt3/Java/blob/master/39%20-%20assert2.java)
+40|WAP in Java to create a class PI which defines a method called calculateInterest(int amt, double roi, int years) to compute the compound interest, perform assertion in the required scenario.|[Code](https://github.com/yogeshCt3/Java/blob/master/40%20-%20assert.java)
