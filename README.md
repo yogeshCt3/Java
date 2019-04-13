@@ -28,6 +28,6 @@ Index|Task|View Code|
 40|WAP in Java to create a class PI which defines a method called calculateInterest(int amt, double roi, int years) to compute the compound interest, perform assertion in the required scenario.|[Code](https://github.com/yogeshCt3/Java/blob/master/40%20-%20assert.java)
 41|WAP in Java to create a class Demo and assign some values to the treeSet of Integer type, and then print the elements using the iterator|[Code]()
 42|WAP in Java to create a class Gen which defines "int linearSearch(E [] list, E key)" as a generic method which returns the index if the key is present int list else it returns -1|[Code]()
-43|WAP in Java to create a class named Student having attributes name, id, and cgpa. Create  another class called Demo which creates a TreeSet of Student type which is sorted in the ascending order of their cgpa.[code]()
+43|WAP in Java to create a class named Student having attributes name, id, and cgpa. Create  another class called Demo which creates a TreeSet of Student type which is sorted in the ascending order of their cgpa.|[code]()
 44|WAP in Java to create a class named Student having attributes name, id, and cgpa. Create  another class called Demo which creates a TreeSet of Student type which is sorted in the ascending order of their cgpa then name and then the id|[Code]()
 
