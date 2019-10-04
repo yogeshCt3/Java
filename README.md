@@ -1,5 +1,5 @@
 
-![alt text](http://www.softcrayons.com/images/SAP-ABAP.jpg)   
+
 **List of few of java implementations**  
 
                  
